@@ -7,6 +7,8 @@ Just for fun
 
 And a patch goes here!
 
+Awesome patch for awesome branch from local repo
+
 My new awesome line!!!
 Cool
 
