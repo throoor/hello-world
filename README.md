@@ -7,10 +7,9 @@ Just for fun
 
 And a patch goes here!
 
-Awesome patch for awesome branch from local repo
+Setting up some conflicts remote
 
-My new awesome line!!!
-Cool
+Important update on Master
 
 Alma added finally
 
